@@ -24,7 +24,6 @@ import SidebarActionsHeader from 'dashboard/components-next/SidebarActionsHeader
 import LinearIssuesList from 'dashboard/components/widgets/conversation/linear/IssuesList.vue';
 import LinearSetupCTA from 'dashboard/components/widgets/conversation/linear/LinearSetupCTA.vue';
 import AiConversationSummary from 'dashboard/components/widgets/conversation/AiConversationSummary.vue';
-import AiConversationSummary from 'dashboard/components/widgets/conversation/AiConversationSummary.vue';
 import AiPriorityScore from 'dashboard/components/widgets/conversation/AiPriorityScore.vue';
 
 
